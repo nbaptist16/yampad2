@@ -85,7 +85,7 @@ Yampad v2
     Left: Figure 2. Layer guide for assembly
     &emsp;
     Right: Figure 3. Servo layout guide*<br>
-    <center>Note: more servos can be added and rearranged if the user desires for more automated key capabilities</center>
+    <center>* Note: The arrows are pointing in the direction that the horn faces outward radially from the motor. More servos can be added and rearranged if the user desires for more automated key capabilities</center>
 </small>
 
 <p>
@@ -156,7 +156,12 @@ Yampad v2
 <p><b>Automation</b></p>
 
 <p>
-    The python scripts provided require the maestro.py file to be in the same directory as the file being run. The easiest way to run the program is likely through a text editor such as VS Code.
+    The python scripts provided require the maestro.py file to be in the same directory as the file being run. The easiest way to run the program is likely through a text editor such as VS Code. A few additional installations are required. The commands and outputs are shown in the image below.
+</p>
+
+<p align="center">
+    <img src="src/164302834_146473054027806_8812671833108070301_n.png" alt="maestroinstall" width="500"><br>
+    <img src="src/162914669_184463799949700_136669196839695680_n.png" alt="keyboardinstall" width="500"><br>
 </p>
 
 <p>
